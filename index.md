@@ -23,4 +23,4 @@
 
 ### 事務所の場所
 
-![赤松健事務所の場所](/assets/images/map.jpg)
+<img alt="赤松健事務所の場所" src="/assets/images/map.jpg" width="800" />
