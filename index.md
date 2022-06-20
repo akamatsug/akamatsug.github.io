@@ -11,3 +11,12 @@
 - [選挙・投票について](https://akamatsug.github.io/faq/vote.html)
 - [実績について](https://akamatsug.github.io/faq/merits.html)
 - [政策について](https://akamatsug.github.io/faq/policies.html)
+
+## 関連サイト
+
+- [赤松健公式ホームページ](https://kenakamatsu.jp/)
+- [Twitter](https://twitter.com/KenAkamatsu)
+- [YouTube 赤松健チャンネル](https://www.youtube.com/channel/UC-Y8SkiaiMISZbm7ac2sXug)
+- [たまむす](https://tamamusu.com/)
+- [表現の自由を守る会](https://hyogen.jp/)
+
