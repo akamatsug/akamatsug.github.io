@@ -1,6 +1,11 @@
+header {
+    display: flex;
+}
+
 .inline li {
     display: inline;
     margin-right: 20px;
+    margin-bottom: 2px;
 }
 
 #header_wrap a {
@@ -9,11 +14,6 @@
 
 #header_wrap {
     background:rgb(224, 102, 102);
-}
-
-.character-yuu {
-    display: flex;
-    justify-content: flex-end;
 }
 
 #main_content {
