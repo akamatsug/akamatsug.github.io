@@ -38,3 +38,5 @@
 
 
 ### 事務所の場所
+
+![赤松健事務所の場所](https://github.com/akamatsug/akamatsug.github.io/blob/5ea57aaed5e649a1853c5cb24ff677c32e3c1ae4/assets/images/map.jpg)
