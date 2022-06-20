@@ -1,8 +1,12 @@
 .inline li {
     display: inline;
-    margin-right: 15px;
+    margin-right: 20px;
 }
 
-.inline li a {
-    color: rgb(224, 102, 102);
+#header_wrap a {
+    color: #212121;
+}
+
+#header_wrap {
+    background:rgb(224, 102, 102);
 }
