@@ -22,3 +22,7 @@
 ### 事務所の場所
 
 <img alt="赤松健事務所の場所" src="/assets/images/map.jpg" width="500" />
+
+### 街宣マップ
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1p2U6S6_vNQyzr0d9C8JAGYlvVgSNbFv-&ehbc=2E312F" width="640" height="480"></iframe>
