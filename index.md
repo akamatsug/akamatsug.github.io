@@ -5,16 +5,16 @@
 
 ## FAQ
 
-- [赤松健について](https://akamatsug.github.io/faq/akamatsu.html)
-- [選挙・投票について](https://akamatsug.github.io/faq/vote.html)
-- [実績について](https://akamatsug.github.io/faq/merits.html)
-- [政策について](https://akamatsug.github.io/faq/policies.html)
+- [赤松健について](/faq/akamatsu.html)
+- [選挙・投票について](/faq/vote.html)
+- [実績について](/faq/merits.html)
+- [政策について](/faq/policies.html)
 
 ### 関連サイト
 
 - [赤松健公式ホームページ](https://kenakamatsu.jp/)
 - [Twitter](https://twitter.com/KenAkamatsu)
-- [YouTube 赤松健チャンネル](https://www.youtube.com/channel/UC-Y8SkiaiMISZbm7ac2sXug)
+- [YouTube 赤松健ちゃんねる](https://www.youtube.com/channel/UC-Y8SkiaiMISZbm7ac2sXug)
 - [たまむす](https://tamamusu.com/)
 - [表現の自由を守る会](https://hyogen.jp/)
 
@@ -26,3 +26,5 @@
 ### 街宣マップ
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1p2U6S6_vNQyzr0d9C8JAGYlvVgSNbFv-&ehbc=2E312F&z=7" width="100%" height="400"></iframe>
+
+[街宣模様のまとめ（Togetter）](https://togetter.com/t/%E8%A1%A8%E7%8F%BE%E3%81%AE%E8%87%AA%E7%94%B1%E3%82%92%E5%AE%88%E3%82%8B%E4%BC%9A)
