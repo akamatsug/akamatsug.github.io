@@ -9,6 +9,7 @@
   - 「自民党」「自由民主党」と政党名を書いても**赤松さんにとって何の意味もありません！** 必ず、候補者名の「赤松健」と書いてください！
 
 <img alt="投票方法" src="/assets/images/howtovote.jpeg" width="600px">
+
 ※ by [@hoshizakileo](https://twitter.com/hoshizakileo/status/1535642022618361856)
 
 ### Q. 山田太郎議員とどちらに投票するか悩みます。どちらが良いでしょうか。
