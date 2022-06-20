@@ -20,3 +20,7 @@
 - [たまむす](https://tamamusu.com/)
 - [表現の自由を守る会](https://hyogen.jp/)
 
+
+### 事務所の場所
+
+![赤松健事務所の場所](/assets/images/map.jpg)
