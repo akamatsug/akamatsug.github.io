@@ -10,7 +10,7 @@
 - [実績について](https://akamatsug.github.io/faq/merits.html)
 - [政策について](https://akamatsug.github.io/faq/policies.html)
 
-## 関連サイト
+### 関連サイト
 
 - [赤松健公式ホームページ](https://kenakamatsu.jp/)
 - [Twitter](https://twitter.com/KenAkamatsu)
