@@ -29,5 +29,5 @@
 
 ### Q. 刑法175条（わいせつ物頒布等の罪）についてはどのようにお考えですか？
 - A. 見直しが必要と考え、取り組んでいこうとしています。
-  - [https://togetter.com/li/1892822](Togetter)
+  - [Togetter](https://togetter.com/li/1892822)
 
