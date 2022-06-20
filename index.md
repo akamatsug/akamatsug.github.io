@@ -25,4 +25,4 @@
 
 ### 街宣マップ
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1p2U6S6_vNQyzr0d9C8JAGYlvVgSNbFv-&ehbc=2E312F&z=7"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1p2U6S6_vNQyzr0d9C8JAGYlvVgSNbFv-&ehbc=2E312F&z=7" width="100%" height="400"></iframe>
