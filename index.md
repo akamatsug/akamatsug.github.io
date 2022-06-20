@@ -5,4 +5,9 @@
 ※掲載されているコンテンツは基本的に公開情報を元に制作しています。赤松 健候補および赤松 健事務所の監修等を受けた公式なものではありません。
 
 
+## FAQ
 
+- [赤松健について](https://akamatsug.github.io/faq/akamatsu.html)
+- [選挙・投票について](https://akamatsug.github.io/faq/vote.html)
+- [実績について](https://akamatsug.github.io/faq/merits.html)
+- [政策について](https://akamatsug.github.io/faq/policies.html)
