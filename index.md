@@ -11,6 +11,10 @@
 - [実績について](/faq/merits.html)
 - [政策について](/faq/policies.html)
 
+## 実績・政策のまとめ
+
+- [実績・政策ツイートまとめ](https://twitter.com/i/events/1534448485830828032)
+
 ### 関連サイト
 
 - [赤松健公式ホームページ](https://kenakamatsu.jp/)
