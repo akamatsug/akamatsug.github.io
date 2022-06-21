@@ -26,6 +26,8 @@
 
 ### 街宣マップ
 
+[選挙期間中の街宣はこちら](/faq/vote.html#speech)
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1p2U6S6_vNQyzr0d9C8JAGYlvVgSNbFv-&ehbc=2E312F&z=7" width="100%" height="400"></iframe>
 
 [街宣模様のまとめ（Togetter）](https://togetter.com/t/%E8%A1%A8%E7%8F%BE%E3%81%AE%E8%87%AA%E7%94%B1%E3%82%92%E5%AE%88%E3%82%8B%E4%BC%9A)
