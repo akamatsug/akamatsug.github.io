@@ -8,7 +8,7 @@
   - 投票用紙には名前以外は一切書いてはいけませんのでご注意ください。無効になります。「ラブひなの赤松健」「赤松健がんばれ！」など無効票になります。
   - 「自民党」「自由民主党」と政党名を書いても**赤松さんにとって何の意味もありません！** 必ず、候補者名の「赤松健」と書いてください！
 
-<img alt="投票方法" src="/assets/images/howtovote.jpeg" width="600px">
+<img alt="投票方法" src="/assets/images/howtovote.png" width="600px">
 
 ※ by [@hoshizakileo](https://twitter.com/hoshizakileo/status/1535642022618361856)
 
