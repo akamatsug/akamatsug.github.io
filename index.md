@@ -1,4 +1,4 @@
-<img src="/assets/images/roadmap.jpg" width="800px">
+<img src="/assets/images/roadmap.jpg?revision=1" width="800px">
 
 このサイトは、2022年参議院選挙 比例代表で立候補した赤松 健候補を応援する有志で制作している、赤松 健さんの実績・活動・政策の紹介サイトです。
 
