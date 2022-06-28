@@ -52,7 +52,8 @@
 <div id="speech"></div>
 ### 街宣場所
 
-<img src="/assets/images/speech20220623-26.jpg" width="600px">
+<img src="/assets/images/speech20220629.jpeg" width="600px">
 
-<img src="/assets/images/speech20220626-30.jpg" width="600px">
+<img src="/assets/images/speech20220630.jpeg" width="600px">
 
+<img src="/assets/images/speech20220701.jpeg" width="600px">
