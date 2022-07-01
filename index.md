@@ -18,6 +18,8 @@
 - [実績・政策ツイートまとめ](https://twitter.com/i/events/1534448485830828032)
 - [動画ツイートまとめ](https://twitter.com/i/events/1539197170951151617)
 
+<img src="/assets/images/FWgmbmEaQAAsZTt.jpeg" width="800px">
+
 ### 関連サイト
 
 - [赤松健公式ホームページ](https://kenakamatsu.jp/)
