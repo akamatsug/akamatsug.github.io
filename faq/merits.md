@@ -42,3 +42,6 @@
 
 ### 自民党　知的財産戦略調査会
 - 政府の知的財産政策ビジョンについて有識者として意見を発表。
+
+<img src="/assets/images/FWjB3B3UYAAOUJZ.jpeg" width="800px">
+

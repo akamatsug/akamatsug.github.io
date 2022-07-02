@@ -49,6 +49,5 @@
 - A. 不在者投票制度を利用できます。住民票のある市区町村の選挙管理委員会に、直接または郵便等で投票用紙、投票用封筒及び不在者投票証明書を請求してください。
   - 参考: [総務省ホームページ](https://www.soumu.go.jp/senkyo/senkyo_s/naruhodo/naruhodo05.html)
 
-<div id="speech"></div>
-### 街宣場所
+<img src="/assets/images/FWftF3MagAAzSp0.jpeg" width="800px">
 
