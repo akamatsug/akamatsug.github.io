@@ -13,6 +13,10 @@
 - [実績について](/faq/merits.html)
 - [政策について](/faq/policies.html)
 
+## コラム
+
+- [漫画家が政治に関わるということ](/columns/lobbying.md)
+
 ## 実績・政策のまとめ
 
 - [実績・政策ツイートまとめ](https://twitter.com/i/events/1534448485830828032)
