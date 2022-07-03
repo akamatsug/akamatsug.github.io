@@ -15,7 +15,7 @@
 
 ## コラム
 
-- [漫画家が政治に関わるということ](/columns/lobbying.md)
+- [漫画家と政治](/columns/lobbying.md)
 
 ## 実績・政策のまとめ
 
