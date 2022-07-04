@@ -24,6 +24,12 @@
 
 <img src="/assets/images/FWgmbmEaQAAsZTt.jpeg" width="800px">
 
+## 関連イラスト・応援ツイート
+
+- [『ラブひな』『魔法先生ネギま』『UQ HOLDER』描き下ろしイラスト集](https://twitter.com/i/events/1543779119514562565)
+- [#漫画家を国会へ〜赤松健を「漫画の力」で応援〜](https://twitter.com/i/events/1543753939270529024)
+
+
 ### 関連サイト
 
 - [赤松健公式ホームページ](https://kenakamatsu.jp/)
@@ -31,6 +37,7 @@
 - [YouTube 赤松健ちゃんねる](https://www.youtube.com/channel/UC-Y8SkiaiMISZbm7ac2sXug)
 - [たまむす](https://tamamusu.com/)
 - [表現の自由を守る会](https://hyogen.jp/)
+
 
 <div id="office"></div>
 ### 事務所の場所
